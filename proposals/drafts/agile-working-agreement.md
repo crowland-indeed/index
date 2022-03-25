@@ -1,0 +1,15 @@
+# Agile Working Agreement
+- For Dev
+- For Business
+- Story Pointing
+- Time Estimates Guestimates
+- Story types
+- Planning
+- WIP
+- Agile Estimates
+- Data Estimates
+- Branching
+- Merging
+- RTE
+- PRs
+- Production
